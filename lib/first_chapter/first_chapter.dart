@@ -79,13 +79,6 @@ class _WidgetOneState extends State<WidgetOne> {
             width: 100,
             height: 100,
           ),
-          // OutlinedButton(
-          //   style: const ButtonStyle(
-          //     backgroundColor: MaterialStatePropertyAll(Colors.black),
-          //   ),
-          //   onPressed: rollDice,
-          //   child: const Text('roll dice'),
-          // ),
           Padding(
             padding: const EdgeInsets.only(top: 20.0),
             child: TextButton(

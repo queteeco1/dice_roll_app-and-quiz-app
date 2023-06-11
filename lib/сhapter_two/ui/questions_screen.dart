@@ -44,7 +44,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
             textAlign: TextAlign.center,
           ),
           const SizedBox(height: 25),
-          ...data.getShuffledAnswers().map((answer) {
+          ...data.shuffledAnswers.map((answer) {
             return Padding(
               padding: const EdgeInsets.only(bottom: 5.0),
               child: QuestionButton(
