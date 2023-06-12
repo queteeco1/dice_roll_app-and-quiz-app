@@ -1,6 +1,6 @@
-import 'package:edemy_app/%D1%81hapter_two/ui/result_screen.dart';
 import 'package:flutter/material.dart';
 import '../data/questions_data.dart';
+import 'result_screen.dart';
 import 'start_screen.dart';
 import 'questions_screen.dart';
 

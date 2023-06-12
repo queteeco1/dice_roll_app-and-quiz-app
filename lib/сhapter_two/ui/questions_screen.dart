@@ -1,6 +1,6 @@
-import 'package:edemy_app/%D1%81hapter_two/data/questions_data.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import '../data/questions_data.dart';
 import 'features/question_button.dart';
 
 class QuestionsScreen extends StatefulWidget {

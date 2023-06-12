@@ -1,5 +1,5 @@
-import 'package:edemy_app/%D1%81hapter_two/data/questions_data.dart';
 import 'package:flutter/material.dart';
+import '../data/questions_data.dart';
 import 'features/question_summary.dart';
 
 class ResultsScreen extends StatelessWidget {
